@@ -1,6 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Home
+landing-title: 'Leverage AI for your Business'
+description: Deep Learning and Deep Reinforcement Learning Consulting
+image: null
+author: null
 ---
+
+DB ML provides top-shelf deep learning and deep reinforcement learning solutions for your business.

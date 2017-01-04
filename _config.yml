@@ -1,10 +1,10 @@
 # Site settings
 title: DB ML
 subtitle: Deep Learning Consulting
-email: dbmachlearn [at] gmail.com
+email: philkuz [at] dbml.io
 description: Deep Learning Consulting Firm
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://db-ml.github.io" # the base hostname & protocol for your site
+url: "https://dbml.io" # the base hostname & protocol for your site
 author: "Phillip Kuznetsov"
 
 # Homepage tiles

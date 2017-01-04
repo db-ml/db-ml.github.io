@@ -10,9 +10,9 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
+    {% include header.html %}
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -22,7 +22,8 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+        <!-- TODO Fix error with the url not leading to the actual image -->
+		<!-- {% if page.image %}<span class="image main"><img src="{{ page.image }}" alt="" /></span>{% endif %} -->
 		<p>{{ content }}</p>
 	</div>
 </section>
